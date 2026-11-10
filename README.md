@@ -15,9 +15,9 @@ Chef de projet digital et Product Owner, je conçois des prompts et des agents I
 
 ## Dépôts à la une
 
-- [heritage-fable](https://github.com/athanormark/heritage-fable) : système de raisonnement et de documentation pour agents Claude Code.
-- [claude-code-debutant-fr](https://github.com/athanormark/claude-code-debutant-fr) : parcours guidé en français pour débuter avec Claude Code.
-- [PROJET_FINAL_Drone-Hubs-Ghana](https://github.com/athanormark/PROJET_FINAL_Drone-Hubs-Ghana) : projet de groupe de certification, optimisation de hubs de drones médicaux (K-Means, Streamlit).
-- [GETAROUND-BLOC-5_JEDHA_FORMATION](https://github.com/athanormark/GETAROUND-BLOC-5_JEDHA_FORMATION) : dashboard Streamlit, API FastAPI, Docker.
-- [AT-T-BLOC-4_JEDHA_FORMATION](https://github.com/athanormark/AT-T-BLOC-4_JEDHA_FORMATION) : détection de SMS spam (LSTM, DistilBERT).
-- [KAYAK-_-BLOC-1_JEDHA_FORMATION](https://github.com/athanormark/KAYAK-_-BLOC-1_JEDHA_FORMATION) : pipeline data engineering (scraping, AWS S3 et RDS, cartes).
+- [heritage-fable](https://github.com/athanormark/heritage-fable) : système de raisonnement et de documentation vivante pour agents Claude Code (référentiel, garde-fous, skills).
+- [claude-code-debutant-fr](https://github.com/athanormark/claude-code-debutant-fr) : parcours guidé en français pour débuter avec Claude Code (agents, skills, bonnes pratiques).
+- [PROJET_FINAL_Drone-Hubs-Ghana](https://github.com/athanormark/PROJET_FINAL_Drone-Hubs-Ghana) : projet de groupe de certification RNCP niveau 6 (Jedha), hubs de drones médicaux par K-Means et application Streamlit.
+- [GETAROUND-BLOC-5_JEDHA_FORMATION](https://github.com/athanormark/GETAROUND-BLOC-5_JEDHA_FORMATION) : projet de formation JEDHA, dashboard Streamlit des retards, API FastAPI de prix, Docker, Hugging Face Spaces.
+- [AT-T-BLOC-4_JEDHA_FORMATION](https://github.com/athanormark/AT-T-BLOC-4_JEDHA_FORMATION) : projet de formation JEDHA, classification de SMS spam avec un LSTM bidirectionnel et un DistilBERT fine-tuné.
+- [KAYAK-_-BLOC-1_JEDHA_FORMATION](https://github.com/athanormark/KAYAK-_-BLOC-1_JEDHA_FORMATION) : projet de formation JEDHA, pipeline data engineering (API météo, scraping, AWS S3 et RDS) et cartes Plotly.
